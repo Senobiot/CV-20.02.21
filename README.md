@@ -9,7 +9,7 @@
 Education:
 Logo   | College  | Faculty | Graduation
 ---| ---- | ----- | -----
-[![](https://i.imgur.com/EPxKzTY.jpg)](#)  | Belarusian State Economic University | 06.2005 | Marketing
+[![](https://i.imgur.com/EPxKzTY.jpg)](#)  | Belarusian State Economic University | Marketing | 06.2005
 
 ---
 
