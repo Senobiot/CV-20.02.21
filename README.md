@@ -43,5 +43,6 @@ Virtual keyboard | [Link to deploy](https://rolling-scopes-school.github.io/seno
 Gem Puzzle | [Link to deploy](https://rolling-scopes-school.github.io/senobiot-JS2020Q3/gem-puzzle/) |  [![](https://i.imgur.com/iZi0IOo.jpg)](#) | 11.2020
 English for kids  | [Link to deploy](https://rolling-scopes-school.github.io/senobiot-JS2020Q3/english-for-kids/) | [![](https://i.imgur.com/qa7phhs.jpg)](#) | 11.2020
 Covid Dashboard  | [Link to deploy](https://rolling-scopes-school.github.io/senobiot-JS2020Q3/covid-19/) | [![](https://i.imgur.com/dSqzoZV.jpg)](#) | 12.2020
+Presentation | [Link to deploy](https://presentation-loadash.netlify.app/) | [![](https://i.imgur.com/UF5aQyF.jpg)](#) | 12.2020
 Clone-wars  | [Link to deploy](https://rsclone-medical-portal.netlify.app/) | [![](https://i.imgur.com/kfT7X01.jpg)](#) | 01.2021
 Clone-wars Presentation | [Link to deploy](https://medical-portal-presentation.netlify.app/) | [![](https://i.imgur.com/cgetily.jpg)](#) | 02.2021
